@@ -11,7 +11,7 @@ set of program is nothing but software
 </br>
 (using this user can interact with computer system )
 </br>
-ex - operating system
+ex - operating system </br>
 2. application software </br>
 => this are the software which run on system software. it is desinged to   perform specific task for the end users
 </br>
