@@ -32,7 +32,7 @@ after compliting the code developer send it to the tester to check errors and bu
 </br>
 
 6. maintance </br>
-   keep checking that the software running smothly also adding feature to it to make to more reable
+   keep checking that the software running smothly also adding feature to it 
 </br>
 <h1>environment</h1>
 => the place where software run build and code etc
