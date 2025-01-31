@@ -1,9 +1,9 @@
-<h5> what is the software</h5>
+<h5> what is the software</h5>  +> 
 to communicate with system we need instraction 
 </br>
 set of instraction is nothing but program 
 </br>
-set of program is nothing but software
+set of program is nothing but software - (which perform specific task)
 
 <h5>types</h5>
 1. system software  </br>
